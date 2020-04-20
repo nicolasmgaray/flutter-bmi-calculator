@@ -6,6 +6,7 @@
 ## Description
 
 Cross-plattform (Web, Android, iOs) app made to learn Flutter.
+
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
 ## Live Demo
